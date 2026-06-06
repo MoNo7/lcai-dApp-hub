@@ -3,7 +3,7 @@
   "name": "RT Secure",
   "description": "RTSecure is a decentralized, 2026-era smart contract security oracle on Lightchain AI that provides instant static analysis and deep AIVM red-team audits.",
   "tags": ["DEFI", "MiMo", "RTSecure", "REDTEAM", "MAINNET"],
-  "iconSrc": "/images/dapp-item-logo/MiMo-RTSecure-square.png",
-  "imageSrc": "/images/dapp-item-thumb/MiMo-RTSecure-card.png",
+  "iconSrc": "/images/dapp-item-logo/mimo-rtsecure-square.png",
+  "imageSrc": "/images/dapp-item-thumb/mimo-rtsecure-card.png",
   "externalUrl": "https://mono7.github.io/RTSecure/"
 }
